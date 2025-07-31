@@ -1,0 +1,6 @@
+@AI_Smart_Search_HostAddress = http://localhost:5296
+
+GET {{AI_Smart_Search_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
